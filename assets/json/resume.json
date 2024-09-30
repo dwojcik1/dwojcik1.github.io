@@ -1,61 +1,71 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Dariusz Wójcik",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "dwojcik@cbk.waw.pl",
+    "phone": "+48 792261096",
+    "url": "https://dwojcik1.github.io",
+    "summary": "Polish-born applied mathematician in fields of astrophysics and data analysis",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Bartycka 18a",
+      "postalCode": "00-716",
+      "city": "Warsaw",
+      "countryCode": "PL",
+      "region": "Poland"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Space Research Centre, Polish Academy of Sciences",
+      "position": "PhD Candidate",
+      "url": "https://cbkpan.pl/en/",
+      "startDate": "2022-03-01",
+      "endDate": "2025-05-01",
+      "summary": "PhD Thesis.",
+      "highlights": ["Turbulence Analysis in near-Earth Space Environment"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Warsaw University of Technology, Poland",
+      "location": "Warsaw, Poland",
+      "url": "https://ww2.mini.pw.edu.pl",
+      "area": "Mathematics (Insurance & Finance)",
+      "studyType": "MSc",
+      "startDate": "2019-10-01",
+      "endDate": "2021-12-01",
+      "score": "4",
+      "courses": ["Insurance Modeling in the Cyber Security Area."]
+    },
+    {
+      "institution": "Cardinal Stefan Wyszyński University,",
+      "location": "Warsaw, Poland",
+      "url": "https://wmp.uksw.edu.pl",
+      "area": "Mathematics (Economy)",
+      "studyType": "MSc",
+      "startDate": "2019-10-01",
+      "endDate": "2020-12-01",
+      "score": "5",
+      "courses": ["Stability Analysis of the Generalized Lorenz System."]
+    },
+    {
+      "institution": "Cardinal Stefan Wyszyński University,",
+      "location": "Warsaw, Poland",
+      "url": "https://wmp.uksw.edu.pl",
+      "area": "Mathematics (Finance)",
+      "studyType": "BSc",
+      "startDate": "2016-10-01",
+      "endDate": "2019-07-01",
+      "score": "5",
+      "courses": ["Mathematical Modeling of the Heartbeat."]
     }
   ],
   "awards": [
