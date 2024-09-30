@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Space Research Centre, Polish Academy of Sciences",
+      "name": "Space Research Centre, Polish Academy of Sciences, Poland",
       "position": "PhD Candidate",
       "url": "https://cbkpan.pl/en/",
       "startDate": "2022-03-01",
       "endDate": "2025-05-01",
-      "summary": "PhD Thesis.",
-      "highlights": ["Turbulence Analysis in near-Earth Space Environment"]
+      "summary": "Astrophysics (Earth and environmental sciences)",
+      "highlights": ["Turbulence Analysis in near-Earth Space Environment."]
     }
   ],
   "education": [
@@ -39,7 +39,7 @@
       "location": "Warsaw, Poland",
       "url": "https://ww2.mini.pw.edu.pl",
       "area": "Mathematics (Insurance & Finance)",
-      "studyType": "MSc",
+      "studyType": "Master of Science",
       "startDate": "2019-10-01",
       "endDate": "2021-12-01",
       "score": "4",
@@ -50,7 +50,7 @@
       "location": "Warsaw, Poland",
       "url": "https://wmp.uksw.edu.pl",
       "area": "Mathematics (Economy)",
-      "studyType": "MSc",
+      "studyType": "Master of Science",
       "startDate": "2019-10-01",
       "endDate": "2020-12-01",
       "score": "5",
@@ -61,7 +61,7 @@
       "location": "Warsaw, Poland",
       "url": "https://wmp.uksw.edu.pl",
       "area": "Mathematics (Finance)",
-      "studyType": "BSc",
+      "studyType": "Bachelor of Science",
       "startDate": "2016-10-01",
       "endDate": "2019-07-01",
       "score": "5",
@@ -178,7 +178,7 @@
     {
       "name": "Prof. dr hab. Wiesław M. Macek",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "."
+      "reference": "The candidate defended his master's thesis in mathematics with a very good grade. In addition, he has conducted research on turbulence and reconnection in the space environment within the framework of the project topic."
     }
   ],
   "projects": [
