@@ -1,13 +1,18 @@
-I am currently a PhD Candidate at the Space Research Centre of Polish Academy of Sciences (CBK PAN) in Warsaw, Poland, working under supervision of Prof. Wiesław M. Macek. 
-My education and research has covered various areas, including mathematical modeling in cyber insurance and economy, as well as the study of generalized Lorenz equations in physics.
-Recently, I have been focusing on stochastic processes, particularly Markov processes, ordinary and stochastic differential equations, statistical methods and numerical analyses (using R, Python, and Matlab languages), and finally fractal / multifractal theory.
-My other recent research interests include solar wind, turbulence, space plasmas, kinetic scales, and data analysis.
-This multidisciplinary background has given me the flexibility to adapt to new research areas easier, and I always welcome new challenges. I am eager to explore new scientific fields, and I believe my open-minded approach would allow me to contribute to collaborative research projects.
+Welcome to my website! I'm Dariusz Wójcik, a PhD Candidate at the Space Research Centre of Polish Academy of Sciences (CBK PAN) in Warsaw, Poland, working under supervision of Prof. Wiesław M. Macek. 
+My research journey has covered diverse fields, combining mathematics, statistics, physics, and space sciences to tackle complex problems in modern and innovative ways.
 
-I hold B.Sc. in Mathematics (Finances), and two M.Sc.'s in Mathematics in Economy, and Insurance & Finance respectively. I also take part in a National Science Centre project on Turbulence and Magnetic Reconnection in Earth’s Space Environment. 
+I hold B.Sc. in Mathematics (Finances), and two M.Sc.'s in Mathematics in Economy, and Insurance & Finance respectively.
+However, my academic background spans a wide array of interests, from mathematical modeling in cyber insurance and economics to the study of generalized Lorenz equations in physics.
+Currently, my focus is on stochastic processes - particularly Markov processes - along with Ordinary and Stochastic Differential Equations, statistical methods, and numerical analysis (using R, Python, and Matlab languages). Additionally, I explore fractal and multifractal theory, adding depth to my understanding of dynamic systems.
 
-This website is my personal space where you can find information related to my research and fields of interest. Besides mathematics and programming, I like to spend my time on reading books, cooking, playing strategy games, and taking care of my family. I'd like to hear from people if they have any query, advice, or a job.
+My research has been published in *The Astrophysical Journal*, and *Physical Review*, among others, and I’ve had the privilege of presenting my findings at international conferences, such as well established *European Geosciences Union*. Since 2022 I’m also actively involved in a National Science Centre project focused on Turbulence and Magnetic Reconnection in Earth’s Space Environment.
 
+In recent years, during my PhD course, my work has expanded into the fascinating realms of space science, with a specific interest in solar wind, turbulence, space plasmas, and kinetic scales. 
+This interdisciplinary approach allows me to adapt quickly to new research areas, and I’m always excited to take on new challenges. My open-minded attitude toward exploration drives my ability to contribute to collaborative research that crosses traditional boundaries.
+
+On this website, you’ll find a portfolio of my projects, articles exploring given topics, and hopefully in the near future also my blog where I discuss the latest trends in statistical analysis, AI, and machine learning. When I’m not immersed in mathematics and programming, I enjoy reading books, cooking, playing strategy games, and spending quality time with my family.
+
+I invite you to explore my work, and if you’re interested in collaborating or have any project in mind, feel free to reach out. Let’s turn complex challenges into meaningful results. Whether you’re a fellow researcher, a tech enthusiast, or a company in need of innovative solutions, I’m always open to connecting with like-minded individuals and exploring new opportunities.
 
 
 <!---
