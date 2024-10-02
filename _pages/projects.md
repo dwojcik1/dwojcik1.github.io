@@ -9,6 +9,8 @@ display_categories: [major, minor]
 horizontal: false
 ---
 
+In progress ...
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
