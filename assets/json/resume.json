@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Dariusz Wójcik",
+    "name": "Dariusz Andrzej Wójcik",
     "label": "Researcher",
     "image": "",
     "email": "dwojcik@cbk.waw.pl",
     "phone": "+48 792261096",
     "url": "https://dwojcik1.github.io",
-    "summary": "Polish-born applied mathematician in fields of astrophysics and data analysis",
+    "summary": "Polish-born applied mathematician and data analyst in the fields of astrophysics and space physics.",
     "location": {
       "address": "Bartycka 18a",
       "postalCode": "00-716",
@@ -25,6 +25,7 @@
   "work": [
     {
       "name": "Space Research Centre, Polish Academy of Sciences, Poland",
+      "location": "Warsaw, Poland",
       "position": "PhD Candidate",
       "url": "https://cbkpan.pl/en/",
       "startDate": "2022-03-01",
@@ -40,10 +41,10 @@
       "url": "https://ww2.mini.pw.edu.pl",
       "area": "Mathematics (Insurance & Finance)",
       "studyType": "Master of Science",
-      "startDate": "2019-10-01",
+      "startDate": "2019-10-02",
       "endDate": "2021-12-01",
       "score": "4",
-      "courses": ["Insurance Modeling in the Cyber Security Area."]
+      "courses": ["MSc thesis: Insurance Modeling in the Cyber Security Area.", "Highlights: Rector's scholarship.", "Additional Data Science courses: - Time Series Analysis, Regression Analysis, Data Mining, Machine Learning"]
     },
     {
       "institution": "Cardinal Stefan Wyszyński University, Poland",
@@ -54,7 +55,7 @@
       "startDate": "2019-10-01",
       "endDate": "2020-12-01",
       "score": "5",
-      "courses": ["Stability Analysis of the Generalized Lorenz System."]
+      "courses": ["MSc thesis: Stability Analysis of the Generalized Lorenz System.", "Additional Physics courses: Dynamical Systems"]
     },
     {
       "institution": "Cardinal Stefan Wyszyński University, Poland",
@@ -65,7 +66,7 @@
       "startDate": "2016-10-01",
       "endDate": "2019-07-01",
       "score": "5",
-      "courses": ["Mathematical Modeling of the Heartbeat."]
+      "courses": ["BSc thesis: Mathematical Modeling of the Heartbeat.", "Highlights: Rector's scholarship."]
     }
   ],
   "certificates": [
