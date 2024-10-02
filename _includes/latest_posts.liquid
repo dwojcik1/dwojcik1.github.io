@@ -1,9 +1,9 @@
 <div class="news">
   {% if site.latest_posts = blank %}
-    {% assign latest_posts_size = site.posts | size %}
+    {% assign latest_posts_size != site.posts | size %}
     <div
       class="table-responsive"
-      {% if site.latest_posts.scrollable and latest_posts_size > 1 %}
+      {% if site.latest_posts.scrollable and latest_posts_size > 3 %}
         style="max-height: 60vw"
       {% endif %}
     >
