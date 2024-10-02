@@ -31,7 +31,7 @@
       "startDate": "2022-03-01",
       "endDate": "2025-05-01",
       "summary": "Astrophysics (Earth and environmental sciences)",
-      "highlights": ["Turbulence Analysis in near-Earth Space Environment."]
+      "highlights": ["Ph.D. thesis: Turbulence Analysis in near-Earth Space Environment.", "Highlights: Numerous international conference presentations."]
     }
   ],
   "education": [
@@ -44,7 +44,7 @@
       "startDate": "2019-10-02",
       "endDate": "2021-12-01",
       "score": "4",
-      "courses": ["MSc thesis: Insurance Modeling in the Cyber Security Area.", "Highlights: Rector's scholarship.", "Additional Data Science courses: - Time Series Analysis, Regression Analysis, Data Mining, Machine Learning"]
+      "courses": ["M.Sc. thesis: Insurance Modeling in the Cyber Security Area.", "Highlights: Rector's scholarship.", "Additional Data Science courses: Time Series Analysis; Regression Analysis; Data Mining; Machine Learning."]
     },
     {
       "institution": "Cardinal Stefan Wyszyński University, Poland",
@@ -55,7 +55,7 @@
       "startDate": "2019-10-01",
       "endDate": "2020-12-01",
       "score": "5",
-      "courses": ["MSc thesis: Stability Analysis of the Generalized Lorenz System.", "Additional Physics courses: Dynamical Systems"]
+      "courses": ["M.Sc. thesis: Stability Analysis of the Generalized Lorenz System.", "Additional Physics courses: Dynamical Systems; Deterministic Chaos Theory."]
     },
     {
       "institution": "Cardinal Stefan Wyszyński University, Poland",
@@ -66,7 +66,7 @@
       "startDate": "2016-10-01",
       "endDate": "2019-07-01",
       "score": "5",
-      "courses": ["BSc thesis: Mathematical Modeling of the Heartbeat.", "Highlights: Rector's scholarship."]
+      "courses": ["B.Sc. thesis: Mathematical Modeling of the Heartbeat.", "Highlights: Rector's scholarship; Graduate with honors."]
     }
   ],
   "certificates": [
@@ -81,7 +81,7 @@
   "publications": [
     {
       "name": "Testing for Markovian character of transfer of fluctuations in solar wind turbulence on kinetic scales",
-      "publisher": "Physical Review E",
+      "publisher": "Physical Review E.",
       "releaseDate": "2024-08-12",
       "url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.025203",
       "summary": "Turbulence, Plasma Physics, Statistical Physics, Thermodynamics, Fluid Dynamics"
@@ -146,17 +146,22 @@
     {
       "language": "Polish",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-location-dot"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-location-dot"
     },
     {
       "language": "Japanese",
-      "fluency": "Basic",
-      "icon": ""
+      "fluency": "Beginner",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner",
+      "icon": "fa-solid fa-location-dot"
     }
   ],
   "interests": [
@@ -166,7 +171,8 @@
       "keywords": [
         "Vulnerabilities and attacks",
         "Computer security",
-        "Risk assessment"
+        "Risk assessment",
+        "Attacker motivation"
       ]
     }
   ],
@@ -178,15 +184,16 @@
     },
     {
       "name": "Prof. dr hab. Wiesław M. Macek",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "The candidate defended his master's thesis in mathematics with a very good grade. In addition, he has conducted research on turbulence and reconnection in the space environment within the framework of the project topic."
+      "icon": "fa-solid fa-laptop",
+      "reference": "The candidate defended his Master's thesis in mathematics with a very good grade. In addition, he has conducted research on turbulence and reconnection in the space environment within the framework of the project topic."
     }
   ],
   "projects": [
     {
       "name": "Turbulence and Magnetic Reconnection in Earth’s Space Environment",
       "summary": "Data analysis on very small scales acquired from various space missions in the neighborhood of the Earth in space. With unprecedented high resolution of MMS observations in the solar wind and the magnetosphere this allows us to grasp the mechanisms driving magnetic reconnection, leading to a better description of space plasmas within kinetic theory.",
-      "highlights": ["Solar and interplanetary physics", "Physics of the Earth's interior"],
+      "organization": "National Science Centre, Poland",
+      "highlights": ["Solar and Interplanetary Physics", "Physics of the Earth's Interior", "Seismology, Geomagnetism, Earth's Gravity Field"],
       "startDate": "2022-01-01",
       "endDate": "2025-06-01",
       "url": "https://www.ncn.gov.pl/en"
