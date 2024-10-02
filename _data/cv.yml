@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Dariusz Wójcik
+      value: Albert Einstein
     - name: Date of Birth
-      value: 26 October 1996
+      value: 14th March 1879
     - name: Languages
-      value: Polish, English, Japanese, German
+      value: English, German
 
 - title: Education
   type: time_table
