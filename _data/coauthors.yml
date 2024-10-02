@@ -32,3 +32,11 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"macek":
+  - firstname: ["Wiesław M."]
+    url: http://users.cbk.waw.pl/~macek/
+
+"burch":
+  - firstname: ["James L."]
+    url: https://orcid.org/0000-0003-0452-8403
