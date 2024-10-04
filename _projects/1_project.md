@@ -1,11 +1,14 @@
 ---
-layout: page
+layout: post
 title: EGU General Assembly 2024
 description: The European Geosciences Union 2024 in Vienna, Austria
 img: assets/img/EGU24.png
 importance: 1
 category: major
 related_publications: true
+images:
+  compare: true
+  slider: true
 ---
 
 The European Geosciences Union 2024 in Vienna, Austria, from April 14 to 19.  The EGU General Assembly serves as a premier platform for geoscientists worldwide to converge, exchange ideas, and showcase their research endeavors. From Earth sciences to planetary studies, this event fosters collaboration and innovation, nurturing the next generation of scientific pioneers.
