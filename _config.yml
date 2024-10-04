@@ -8,10 +8,10 @@ middle_name: Andrzej
 last_name: Wójcik
 email: dwojcik@cbk.waw.pl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Theme for academics. Based on folio design.
+  Personal Dariusz Wójcik's website for the research and employment purposes. Feel free to contact me any time!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
-keywords: mathematics, astrophysics, statistics, analysis # add your own keywords or leave empty
+keywords: mathematics, astrophysics, statistics, analysis, physics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
