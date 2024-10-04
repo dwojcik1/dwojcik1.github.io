@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: EGU General Assembly 2024
 description: The European Geosciences Union 2024 in Vienna, Austria
 img: assets/img/EGU24.png
