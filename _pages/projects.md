@@ -2,14 +2,12 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Here you can find an expanding collection of my resources, works, and photos from international conferences that I've attended. You're welcome to download any materials that interest you, but I kindly ask that you provide proper citation if you make use of them in your own work. If you have any questions or would like to discuss anything further, don’t hesitate to reach out!
+description: Here you can find an expanding collection of my resources, works, and regular photos from various international conferences that I've attended. You're welcome to download any materials that interest you, but I kindly ask that you provide proper citation if you make use of them in your own work. If you have any questions or would like to discuss anything further, don’t hesitate to reach out!
 nav: true
 nav_order: 3
 display_categories: [major, minor]
 horizontal: false
 ---
-
-In progress ...
 
 <!-- pages/projects.md -->
 <div class="projects">
