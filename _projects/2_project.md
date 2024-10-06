@@ -5,9 +5,6 @@ description: [American Geophysical Union](https://www.agu.org) (AGU) is a global
 img: assets/img/AGU24.png
 importance: 1
 category: major
-images:
-  compare: true
-  slider: true
 ---
 
 Science has always been about the new. The now. The next. It’s what propels us, feeding our questions and inspiring our work. The constant question and answer form a rhythm, a cadence, a story. Science is a story. A story of infinite possibilities. A story of continuous discoveries. A story of hopeful solutions.
