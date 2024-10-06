@@ -23,7 +23,7 @@ Track 7: Smart technologies for environmentally friendly energy production.
 
 Presentation title: Exploring Solar Wind Turbulence: MMS Mission Comparative Data Analysis.
 
-[Certificate of presentation and contribution.](assets/pdf/EMCEI24_cert.pdf)
+[Certificate of presentation and contribution.](https://dwojcik1.github.io/assets/pdf/EMCEI24_cert.pdf)
 
 
 ---
