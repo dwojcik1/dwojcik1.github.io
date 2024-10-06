@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EGU General Assembly 2024
-description: The European Geosciences Union 2024 in Vienna, Austria
+description: European Geosciences Union (EGU) is Europe’s premier geosciences union, to pursuit excellence in the Earth, planetary, and space sciences for the benefit of humanity, worldwide.
 img: assets/img/EGU24.png
 importance: 2
 category: major
@@ -11,7 +11,8 @@ images:
   slider: true
 ---
 
-The European Geosciences Union 2024 in Vienna, Austria, from April 14 to 19.  The EGU General Assembly serves as a premier platform for geoscientists worldwide to converge, exchange ideas, and showcase their research endeavors. From Earth sciences to planetary studies, this event fosters collaboration and innovation, nurturing the next generation of scientific pioneers.
+The [EGU General Assembly 2024](https://www.egu24.eu) in Vienna, Austria, April 14-19, brings together geoscientists from all over the world to one meeting covering all disciplines of the Earth, planetary, and space sciences. The EGU aims to provide a forum where scientists, especially early career researchers, can present their work and discuss their ideas with experts in all fields of geoscience. This event fosters collaboration and innovation, nurturing the next generation of scientific pioneers. It also serves as a premier platform for geoscientists worldwide to converge, exchange ideas, and showcase their research endeavors.
+
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/EGU24_1.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -24,6 +25,11 @@ The European Geosciences Union 2024 in Vienna, Austria, from April 14 to 19.  Th
 
 
 
-See also the conference paper {% cite EGU24 %}!
+See also our conference paper {% cite EGU24 %}!
+
+<b> Stats: </b>
+
+The EGU24 General Assembly welcomed 20,979 registered attendees, of which 18,388 made their way to Vienna from 116 countries and 2,591 joined online from 109 countries. It was a great success with 18,896 presentations given in 1,044 sessions. Thereby, 57% of the abstracts were identified as contributions from Early Career Scientists (ECS).
 
 
+The EGU General Assembly reconvenes at the ACV in Vienna & online as EGU25, 27 April–2 May 2025. 
