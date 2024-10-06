@@ -1,10 +1,11 @@
 ---
 layout: page
 title: CHAOS 2023
-description: The 16th International Conference on Chaotic Modeling and Simulation, CHAOS 2023, Heraklion, Crete, Greece
+description: The 16th International Conference on Chaotic Modeling and Simulation, CHAOS 2023, Heraklion, Crete, Greece.
 img: assets/img/CHAOS23.png
 importance: 3
 category: Minor conferences
+related_publications: false
 images:
   compare: true
   slider: true
@@ -18,7 +19,7 @@ The study of nonlinear and dynamical systems has emerged as a major area of inte
 
 <u>Presentation title:</u> Fokker-Planck Statistical Analysis of Turbulence on Kinetic Scales.
 
-First author: Prof. Wieslaw M. Macek
+First author: [Prof. Wieslaw M. Macek](http://users.cbk.waw.pl/~macek/)
 
 
 ---
