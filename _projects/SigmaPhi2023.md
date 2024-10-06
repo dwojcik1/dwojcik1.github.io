@@ -3,7 +3,7 @@ layout: page
 title: SigmaPhi 2023
 description: Sigma Phi international conference organized in three main areas of Statistical Physics to cover all the selected topics.
 img: assets/img/SigmaPhi23.jpg
-importance: 1
+importance: 2
 category: Minor conferences
 images:
   compare: true
