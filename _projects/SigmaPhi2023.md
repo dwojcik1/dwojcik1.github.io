@@ -10,7 +10,11 @@ images:
   slider: true
 ---
 
-The [SigmaPhi 2023](http://www.sigmaphi.polito.it) international conference is organized in the following three Areas to cover all the Topics of Statistical Physics: Foundations and Theoretical aspects of classical, quantum and relativistic statistical physics and thermodynamics; Applications to Physical Systems; and Applications to non-Physical Systems. Some workshops has clustered talks dedicated to special applications of statistical physics in physical and non-physical systems and have been organized as parallel events.
+The [SigmaPhi 2023](http://www.sigmaphi.polito.it) international conference in Chania, Crete, Greece, July 10-14, is organized in the following three areas to cover all the topics of statistical physics: 
+- Foundations and Theoretical aspects of classical, quantum and relativistic statistical physics and thermodynamics,
+- Applications to Physical Systems,
+- Applications to non-Physical Systems.
+Some workshops has clustered talks dedicated to special applications of statistical physics in physical and non-physical systems and have been organized as parallel events.
 
 
 
@@ -34,7 +38,17 @@ Classical particle systems reside at thermal equilibrium with their velocity dis
 </swiper-container>
 
 
-{% include figure.liquid path="assets/img/SP23_a.png" title="example image" class="img-fluid rounded z-depth-1" %}
-{% include figure.liquid path="assets/img/SP23_b.png" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/SP23_a.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/SP23_b.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Magnetospheric Multiscale Observations of Kappa Magnetospheric Multiscale Observations of Kappa Distributions in the Magnetosheath on Small Scales
+</div>
+
 
 See also the full [Abstracts Booklet (p. 251)](http://www.sigmaphi.polito.it/attachments/article/242/SigmaPhi%202023_%20Abstract%20Book_%20e-version%20.pdf).
