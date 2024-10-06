@@ -9,6 +9,8 @@ display_categories: [Major conferences, Minor conferences]
 horizontal: false
 ---
 
+Still in progress ...
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
