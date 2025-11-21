@@ -2,17 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Dariusz Wójcik
+      value: Albert Einstein
     - name: Date of Birth
-      value: 26th October 1996
+      value: 14th March 1879
     - name: Languages
-      value: Polish, English, Japanese, German
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: Space Research Centre of Polish Academy of Sciences
+      institution: University of Zurich, Zurich, Switzerland
       year: 1905
       description:
         - Description 1.
@@ -21,7 +21,7 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: PhD
+    - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
       description:
