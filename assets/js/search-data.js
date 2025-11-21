@@ -439,6 +439,41 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-agu-chapman-conference-2023",
+          title: 'AGU Chapman Conference 2023',
+          description: "American Geophysical Union (AGU) is a global community supporting more than half a million advocates and professionals in the Earth and space sciences.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/AGU2023/";
+            },},{id: "projects-agu-annual-meeting-2024",
+          title: 'AGU Annual Meeting 2024',
+          description: "American Geophysical Union (AGU) is a global community supporting more than half a million advocates and professionals in the Earth and space sciences.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/AGU2024/";
+            },},{id: "projects-chaos-2023",
+          title: 'CHAOS 2023',
+          description: "The 16th International Conference on Chaotic Modeling and Simulation, CHAOS 2023, Heraklion, Crete, Greece.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CHAOS2023/";
+            },},{id: "projects-egu-general-assembly-2023",
+          title: 'EGU General Assembly 2023',
+          description: "European Geosciences Union (EGU) is Europe’s premier geosciences union, to pursuit excellence in the Earth, planetary, and space sciences for the benefit of humanity, worldwide.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/EGU2023/";
+            },},{id: "projects-egu-general-assembly-2024",
+          title: 'EGU General Assembly 2024',
+          description: "European Geosciences Union (EGU) is Europe’s premier geosciences union, to pursuit excellence in the Earth, planetary, and space sciences for the benefit of humanity, worldwide.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/EGU2024/";
+            },},{id: "projects-emcei-2024",
+          title: 'EMCEI 2024',
+          description: "Euro-Mediterranean Conference for Environmental Integration (EMCEI) 2024, Marrakesh, Morocco.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/EMCEI2024/";
+            },},{id: "projects-sigmaphi-2023",
+          title: 'SigmaPhi 2023',
+          description: "Sigma Phi international conference organized in three main areas of Statistical Physics to cover all the selected topics.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/SigmaPhi2023/";
             },},{
         id: 'social-cv',
         title: 'CV',
