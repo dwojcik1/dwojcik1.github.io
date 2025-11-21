@@ -39,12 +39,12 @@
       "institution": "Space Research Centre, Polish Academy of Sciences",
       "location": "Warsaw, Poland",
       "url": "https://cbkpan.pl/en/",
-      "area": "Space Physics (Insurance & Finance)",
+      "area": "Space Physics (Exact and Natural Sciences)",
       "studyType": "Doctor of Philosophy",
       "startDate": "2022-03-01",
       "endDate": "2025-09-01",
       "score": "Cum Laude",
-      "courses": ["Ph.D. thesis: Turbulence Analysis in near-Earth Space Environment.", "Highlights: Distinction for progress in the doctoral work and for publication achievements."]
+      "courses": ["Ph.D. Thesis: Analysis of Markov Processes in Space Environment.", "Highlights: Distinction for progress in the doctoral work and for publication achievements."]
     },
     {
       "institution": "Warsaw University of Technology",
@@ -55,7 +55,7 @@
       "startDate": "2019-10-02",
       "endDate": "2021-12-01",
       "score": "4",
-      "courses": ["M.Sc. thesis: Insurance Modeling in the Cyber Security Area.", "Highlights: Rector's scholarship.", "Additional Data Science courses: Time Series Analysis; Regression Analysis; Data Mining; Machine Learning."]
+      "courses": ["M.Sc. Thesis: Insurance Modeling in the Cyber Security Area.", "Highlights: Rector's scholarship.", "Additional Data Science courses: Time Series Analysis; Regression Analysis; Data Mining; Machine Learning."]
     },
     {
       "institution": "Cardinal Stefan Wyszyński University",
@@ -66,7 +66,7 @@
       "startDate": "2019-10-01",
       "endDate": "2020-12-01",
       "score": "5",
-      "courses": ["M.Sc. thesis: Stability Analysis of the Generalized Lorenz System.", "Additional Physics courses: Dynamical Systems; Deterministic Chaos Theory."]
+      "courses": ["M.Sc. Thesis: Stability Analysis of the Generalized Lorenz System.", "Additional Physics courses: Dynamical Systems; Deterministic Chaos Theory."]
     },
     {
       "institution": "Cardinal Stefan Wyszyński University",
@@ -77,7 +77,7 @@
       "startDate": "2016-10-01",
       "endDate": "2019-07-01",
       "score": "5",
-      "courses": ["B.Sc. thesis: Mathematical Modeling of the Heartbeat.", "Highlights: Rector's scholarship; Graduate with honors."]
+      "courses": ["B.Sc. Thesis: Mathematical Modeling of the Heartbeat.", "Highlights: Rector's scholarship; Graduate with honors (Cum Laude)."]
     }
   ],
   "certificates": [
@@ -91,24 +91,31 @@
   ],
   "publications": [
     {
-      "name": "Testing for Markovian character of transfer of fluctuations in solar wind turbulence on kinetic scales",
+      "name": "Searching for Universality of Turbulence in the Earth's Magnetosphere",
+      "publisher": "Journal of Geophysical Research: Space Physics",
+      "releaseDate": "2025-09-26",
+      "url": "https://doi.org/10.1029/2025JA034020",
+      "summary": "Turbulence, Magnetic Fields, Solar Wind Plasma, Statistical Methods, Solar Wind / Magnetosphere Interactions"
+    },
+    {
+      "name": "Testing for Markovian Character of Transfer of Fluctuations in Solar Wind Turbulence on Kinetic Scales",
       "publisher": "Physical Review E.",
       "releaseDate": "2024-08-12",
-      "url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.025203",
+      "url": "https://doi.org/10.1103/PhysRevE.110.025203",
       "summary": "Turbulence, Plasma Physics, Statistical Physics, Thermodynamics, Fluid Dynamics"
     },
     {
-      "name": "Statistical analysis of stochastic magnetic fluctuations in space plasma based on the MMS mission",
+      "name": "Statistical Analysis of Stochastic Magnetic Fluctuations in Space Plasma Based on the MMS Mission",
       "publisher": "Monthly Notices of the Royal Astronomical Society",
       "releaseDate": "2023-10-20",
-      "url": "https://academic.oup.com/mnras/article/526/4/5779/7259918",
+      "url": "https://doi.org/10.1093/mnras/stad2584",
       "summary": "Magnetic Fields, Turbulence, Data Analysis, Statistical Methods, Heliosphere, Solar Wind"
     },
     {
       "name": "Magnetospheric Multiscale Observations of Markov Turbulence on Kinetic Scales",
       "publisher": "The Astrophysical Journal",
       "releaseDate": "2023-02-01",
-      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aca0a0",
+      "url": "https://doi.org/10.3847/1538-4357/aca0a0",
       "summary": "Solar Wind, Interplanetary Turbulence, Heliosphere, Interplanetary Physics, Space Plasmas, Magnetohydrodynamics"
     }
   ],
