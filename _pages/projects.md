@@ -1,13 +1,15 @@
 ---
 layout: page
-title: projects
+title: Conferences & Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here you can find an expanding collection of my resources, works, and general information, as well as regular photos from various international conferences that I've attended and presented my work. You're welcome to download any materials that interest you, but I kindly ask that you provide proper citation if you make use of them in your own work. If you have any questions or would like to discuss anything further, don’t hesitate to reach out!
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Major conferences, Minor conferences]
 horizontal: false
 ---
+
+Still in progress ...
 
 <!-- pages/projects.md -->
 <div class="projects">
