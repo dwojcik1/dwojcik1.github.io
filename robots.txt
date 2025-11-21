@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://dwojcik1.github.io/sitemap.xml
