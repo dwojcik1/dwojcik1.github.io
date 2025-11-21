@@ -2,9 +2,9 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-academia_edu: https://cbkpan.pl/o-nas/struktura/zfusia/
-  organization: Space Research Centre PAS # your organization as appears in the subdomain
-  username:  dwojcik # your username
+# academia_edu: https://cbkpan.pl/o-nas/struktura/zfusia/
+#  organization: Space Research Centre PAS # your organization as appears in the subdomain
+#  username:  dwojcik # your username
 # acm_id: # your dl.acm.org/profile/id
 arxiv_id: dwojcik96 # your arXiv author ID
 # blogger_url: # your blogger URL
