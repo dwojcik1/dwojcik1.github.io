@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-conferences-amp-projects",
+          title: "Conferences &amp; Projects",
+          description: "Here you can find an expanding collection of my resources, works, and general information, as well as regular photos from various international conferences that I&#39;ve attended and presented my work. You&#39;re welcome to download any materials that interest you, but I kindly ask that you provide proper citation if you make use of them in your own work. If you have any questions or would like to discuss anything further, don’t hesitate to reach out!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
