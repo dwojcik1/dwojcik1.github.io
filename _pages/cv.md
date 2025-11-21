@@ -1,11 +1,12 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: CV_Dariusz_Wojcik.pdf
+description: My personal Curriculum Vitae. Feel free to download a PDF version and reach out!
 toc:
   sidebar: left
+social: true # includes social icons at the bottom of the page
 ---
