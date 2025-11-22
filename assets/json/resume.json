@@ -91,6 +91,13 @@
   ],
   "publications": [
     {
+      "name": "Fractal Nature of Galaxy Clustering in the Updated CfA Redshift Catalog",
+      "publisher": "Scientific Reports: Galaxies",
+      "releaseDate": "2025-12",
+      "url": "https://doi.org/10.13140/RG.2.2.15119.91045",
+      "summary": "Multifractals, Universe, Galaxies, Clustering, Mass Distribution, Scaling"
+    },
+    {
       "name": "Searching for Universality of Turbulence in the Earth's Magnetosphere",
       "publisher": "Journal of Geophysical Research: Space Physics",
       "releaseDate": "2025-09-26",
@@ -125,25 +132,38 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Probability Theory",
         "Statistics",
-        "Data Analysis",
-        "Calculus",
-        "Linear Algebra",
-        "Differential Equations"
+        "Probability",
+        "Differential Equations",
+        "Dynamical Systems",
+        "Data Analysis"
       ]
     },
     {
-      "name": "Coding",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "R",
         "Python",
         "SQL",
-        "C",
-        "Wolfram Mathematica",
-        "TeX"
+        "Mathematica",
+        "IDL"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MATLAB",
+        "TeX",
+        "Git",
+        "SPEDAS",
+        "PlasmaPy",
+        "AstroPy",
+        "SpacePy",
+        "CDFlib",
       ]
     },
     {
@@ -155,15 +175,15 @@
         "Growth mindset",
         "Critical thinking",
         "Adaptability",
-        "Discipline",
-        "Empathy"
+        "Communication",
+        "Attention to Detail"
       ]
     }
   ],
 "languages": [
     {
       "language": "Polish",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": "fa-solid fa-location-dot"
     },
     {
@@ -173,37 +193,39 @@
     },
     {
       "language": "Japanese",
-      "fluency": "Beginner",
+      "fluency": "Basic",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "language": "German",
-      "fluency": "Beginner",
+      "fluency": "Basic",
       "icon": "fa-solid fa-location-dot"
     }
   ],
   "interests": [
     {
-      "name": "Cyber security",
+      "name": "Space Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Vulnerabilities and attacks",
-        "Computer security",
-        "Risk assessment",
-        "Attacker motivation"
+        "Space Plasma",
+        "Turbulence",
+        "Solar Wind",
+        "Magnetosphere",
+        "Magnetic Reconnection",
+        "Stochastic Processes"
       ]
     }
   ],
   "references": [
     {
-      "name": "Prof. dr hab. Szymon Malinowski",
+      "name": "James L. Burch",
       "icon": "fa-solid fa-laptop",
-      "reference": "The PhD Candidate achieves results that are being published in reputable journals and presented at conferences, makes the desired progress, cooperates with the supervisor, and fulfills all of his duties."
+      "reference": ""
     },
     {
       "name": "Prof. dr hab. Wiesław M. Macek",
       "icon": "fa-solid fa-laptop",
-      "reference": "The candidate defended his Master's thesis in mathematics with a very good grade. In addition, he has conducted research on turbulence and reconnection in the space environment within the framework of the project topic."
+      "reference": ""
     }
   ],
   "projects": [
@@ -213,7 +235,7 @@
       "organization": "National Science Centre, Poland",
       "highlights": ["Solar and Interplanetary Physics", "Physics of the Earth's Interior", "Seismology, Geomagnetism, Earth's Gravity Field"],
       "startDate": "2022-01-01",
-      "endDate": "2025-06-01",
+      "endDate": "2025-08-01",
       "url": "https://www.ncn.gov.pl/en"
     }
   ]
