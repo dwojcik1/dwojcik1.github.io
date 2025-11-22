@@ -6,7 +6,7 @@ subtitle: <a href='#'>About me</a>.
 
 profile:
   align: right
-  image: DW.jpg
+  image: 
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Laboratory for Solar System Physics and Astrophysics</p>
