@@ -4,7 +4,7 @@
     "label": "Research Fellow (Post-doc)",
     "image": "",
     "email": ["dwojcik@cbk.waw.pl"],
-    "phone": "+48 792261096",
+    "phone": "+48792261096",
     "url": "https://dwojcik1.github.io",
     "summary": "Applied Mathematician and early-career Space Physicist with expertise in turbulence, stochastic processes, probability theory, and space data analysis. Experienced in working with the NASA's *Magnetospheric Multiscale** (*MMS*) mission satellite data, statistical modeling, numerical analysis, and interdisciplinary research bridging mathematics and space physics, as well as finances and insurances. Proficient in applying advanced mathematical frameworks such as *Markov processes*, *Fokker–Planck* and *Langevin* dynamics, and *fractal analysis* to investigate energy transfer mechanisms in space plasma turbulence across kinetic scales. Author and co-author of various peer-reviewed publications in leading physical and astrophysical journals.",
     "location": {
@@ -163,7 +163,7 @@
         "PlasmaPy",
         "AstroPy",
         "SpacePy",
-        "CDFlib",
+        "CDFlib"
       ]
     },
     {
@@ -172,8 +172,8 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Problem-solving",
-        "Growth mindset",
-        "Critical thinking",
+        "Growth Mindset",
+        "Critical Thinking",
         "Adaptability",
         "Communication",
         "Attention to Detail"
@@ -212,20 +212,36 @@
         "Solar Wind",
         "Magnetosphere",
         "Magnetic Reconnection",
-        "Stochastic Processes"
+        "Stochastic Processes",
+        "Statistical Modeling"
       ]
     }
   ],
   "references": [
     {
-      "name": "James L. Burch",
+      "name": "Dr. James L. Burch",
       "icon": "fa-solid fa-laptop",
-      "reference": "nice"
+      "reference": "Dr. Wojcik has a bright future ahead of him and will be a tremendous asset to whatever organization he does postdoctoral research with."
     },
     {
-      "name": "Prof. dr hab. Wiesław M. Macek",
+      "name": "Dr. Luca Sorriso-Valvo",
       "icon": "fa-solid fa-laptop",
-      "reference": "nice"
+      "reference": "I strongly recommend Dr. Dariusz Andrzej Wójcik for the postdoctoral position."
+    },
+    {
+      "name": "Prof. Marek Gągolewski",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Dr. Dariusz Wójcik is a very promising young scientist whom I have had the pleasure of evaluating."
+    },
+    {
+      "name": "Prof. Tomasz A. Kowalewski",
+      "icon": "fa-solid fa-laptop",
+      "reference": "I hold Dr. Dariusz Wójcik in the highest regard as a talented and dedicated scientist with exceptional analytical mind and a solid interdisciplinary foundation."
+    },
+    {
+      "name": "Prof.Wiesław M. Macek",
+      "icon": "fa-solid fa-laptop",
+      "reference": "He has conducted research on turbulence and reconnection in the space environment within the framework of the project topic."
     }
   ],
   "projects": [
