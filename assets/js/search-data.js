@@ -470,13 +470,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/SigmaPhi2023/";
             },},{
-        id: 'social-arxiv',
-        title: 'arXiv',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://arxiv.org/a/dwojcik96.html", "_blank");
-        },
-      },{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
@@ -503,13 +496,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.researchgate.net/profile/Dariusz-Wojcik-8/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
