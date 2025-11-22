@@ -9,7 +9,7 @@ profile:
   image: 
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Laboratory for Solar System Physics and Astrophysics</p>
+    <p>Solar System Physics and Astrophysics Division</p>
     <p>Space Research Centre PAS</p>
     <p>Bartycka 18a, 00-716 Warsaw</p>
 
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Welcome to my website!
-My name is **Dariusz Wójcik**, **PhD**, Research Fellow (Space Physicist) at the Space Research Centre of Polish Academy of Sciences (SRC PAS) in [Warsaw](https://www.poland.travel/en/warsaw/), Poland. 
+My name is **Dariusz Andrzej Wójcik**, **PhD**, Research Fellow (Space Physicist) at the Space Research Centre of Polish Academy of Sciences (SRC PAS) in [Warsaw](https://www.poland.travel/en/warsaw/), Poland. 
 
 My academic background spans mathematics, statistics, physics, space sciences, and finances, with a B.Sc. in **Mathematics** (Finances) and two M.Sc. degrees in **Mathematics** (in Economics and in Insurance & Finance). 
 My early research included mathematical modeling in Cyber Insurances ([M.Sc. thesis](https://dwojcik1.github.io/assets/pdf/MSc_PW.pdf)) and Economics, as well as the study of Generalized Lorenz Equations in physics (second [M.Sc. thesis](https://dwojcik1.github.io/assets/pdf/MSc_UKSW.pdf)).
