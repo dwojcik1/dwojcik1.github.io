@@ -6,7 +6,7 @@
 #  organization: Space Research Centre PAS # your organization as appears in the subdomain
 #  username:  dwojcik # your username
 # acm_id: # your dl.acm.org/profile/id
-arxiv_id: dwojcik96 # your arXiv author ID
+# arxiv_id: # your arXiv author ID
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 cv_pdf: /assets/pdf/CV_Dariusz_Wojcik.pdf # path to your CV PDF file
@@ -35,7 +35,7 @@ orcid_id: 0000-0002-2658-6068 # your ORCID ID
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 research_gate_profile: Dariusz-Wojcik-8 # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: HdrTzmAAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
