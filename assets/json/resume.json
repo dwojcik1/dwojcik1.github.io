@@ -6,7 +6,7 @@
     "email": ["dwojcik@cbk.waw.pl"],
     "phone": "+48 792261096",
     "url": "https://dwojcik1.github.io",
-    "summary": "Applied Mathematician, Space Physicist, and Data Analyst at the Space Research Centre of the Polish Academy of Sciences",
+    "summary": "Applied Mathematician and early-career Space Physicist with expertise in turbulence, stochastic processes, probability theory, and space data analysis. Experienced in working with the NASA's *Magnetospheric Multiscale** (*MMS*) mission satellite data, statistical modeling, numerical analysis, and interdisciplinary research bridging mathematics and space physics, as well as finances and insurances. Proficient in applying advanced mathematical frameworks such as *Markov processes*, *Fokker–Planck* and *Langevin* dynamics, and *fractal analysis* to investigate energy transfer mechanisms in space plasma turbulence across kinetic scales. Author and co-author of various peer-reviewed publications in leading physical and astrophysical journals.",
     "location": {
       "address": "Bartycka 18a",
       "postalCode": "00-716",
@@ -44,7 +44,7 @@
       "startDate": "2022-03-01",
       "endDate": "2025-09-01",
       "score": "Cum Laude",
-      "courses": ["Ph.D. Thesis: Analysis of Markov Processes in Space Environment.", "Highlights: Distinction for progress in the doctoral work and for publication achievements."]
+      "courses": ["Ph.D. Thesis: \"Analysis of Markov Processes in Space Environment\".", "Highlights: Distinction for progress in the doctoral work and for publication achievements."]
     },
     {
       "institution": "Warsaw University of Technology",
