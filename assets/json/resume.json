@@ -40,7 +40,7 @@
       "location": "Warsaw, Poland",
       "url": "https://cbkpan.pl/en/",
       "area": "Space Physics (Exact and Natural Sciences)",
-      "studyType": "Doctor of Philosophy",
+      "studyType": "Doctor of Philosophy (Cum Laude)",
       "startDate": "2022-03-01",
       "endDate": "2025-09-01",
       "score": "Cum Laude",
@@ -55,7 +55,7 @@
       "startDate": "2019-10-02",
       "endDate": "2021-12-01",
       "score": "4",
-      "courses": ["M.Sc. Thesis: Insurance Modeling in the Cyber Security Area.", "Highlights: Rector's scholarship.", "Additional Data Science courses: Time Series Analysis; Regression Analysis; Data Mining; Machine Learning."]
+      "courses": ["M.Sc. Thesis: \"Insurance Modeling in the Cyber Security Area\".", "Highlights: Rector's scholarship.", "Additional Courses: Time Series Analysis; Regression Analysis; Data Mining; Machine Learning."]
     },
     {
       "institution": "Cardinal Stefan Wyszyński University",
@@ -66,18 +66,18 @@
       "startDate": "2019-10-01",
       "endDate": "2020-12-01",
       "score": "5",
-      "courses": ["M.Sc. Thesis: Stability Analysis of the Generalized Lorenz System.", "Additional Physics courses: Dynamical Systems; Deterministic Chaos Theory."]
+      "courses": ["M.Sc. Thesis: \"Stability Analysis of the Generalized Lorenz System\".", "Additional Courses: Dynamical Systems; Deterministic Chaos Theory."]
     },
     {
       "institution": "Cardinal Stefan Wyszyński University",
       "location": "Warsaw, Poland",
       "url": "https://wmp.uksw.edu.pl",
       "area": "Mathematics (Finance)",
-      "studyType": "Bachelor of Science",
+      "studyType": "Bachelor of Science (Cum Laude)",
       "startDate": "2016-10-01",
       "endDate": "2019-07-01",
       "score": "5",
-      "courses": ["B.Sc. Thesis: Mathematical Modeling of the Heartbeat.", "Highlights: Rector's scholarship; Graduate with honors (Cum Laude)."]
+      "courses": ["B.Sc. Thesis: \"Mathematical Modeling of the Heartbeat\".", "Highlights: Rector's scholarship"]
     }
   ],
   "certificates": [
