@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Research Fellow (Space Physicist) · Space Research Centre, Polish Academy of Sciences
+title: About me
 permalink: /
 subtitle: <a href='#'>About me</a>.
 
@@ -19,34 +19,66 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Welcome to my website!
-My name is **Dariusz Andrzej Wójcik**, **PhD**, Research Fellow (Space Physicist) at the Space Research Centre of Polish Academy of Sciences (SRC PAS) in [Warsaw](https://www.poland.travel/en/warsaw/), Poland. 
-
-My academic background spans mathematics, statistics, physics, space sciences, and finances, with a B.Sc. in **Mathematics** (Finances) and two M.Sc. degrees in **Mathematics** (in Economics and in Insurance & Finance). 
-My early research included mathematical modeling in Cyber Insurances ([M.Sc. thesis](https://dwojcik1.github.io/assets/pdf/MSc_PW.pdf)) and Economics, as well as the study of Generalized Lorenz Equations in physics (second [M.Sc. thesis](https://dwojcik1.github.io/assets/pdf/MSc_UKSW.pdf)).
-
-I later completed my Ph.D. in **Space Physics** with honors (**_Cum Laude_**), under supervision of [Prof. Wiesław M. Macek](http://users.cbk.waw.pl/~macek/), where I focused on the analysis of Markov processes in the space environment. 
-Today, my work integrates advanced mathematical methods with space plasma research. 
-I develop and analyze dynamical and stochastic models, drawing on stochastic processes, particularly Markov processes, ordinary and stochastic differential equations, statistical methods, and numerical analysis using [R](https://cran.r-project.org), [Python](https://www.python.org), and [MATLAB](https://www.mathworks.com/products/matlab.html) languages.
-
-My current research centers on space plasma dynamics, turbulence, and magnetic reconnection in the Earth’s magnetosphere. 
-I analyze observational data from NASA’s _Magnetospheric Multiscale_ (_MMS_) mission to better understand the complex behavior of plasma and magnetic fields in near-Earth space. 
-Additionally, I explore fractal and multifractal structures in dynamical systems, broadening my interdisciplinary approach to complex physical phenomena.
-
-My research findings have been published in [The Astrophysical Journal](https://iopscience.iop.org/journal/0004-637X), [Journal of Geophysical Research](https://agupubs.onlinelibrary.wiley.com/journal/21562202), and [Physical Review](https://journals.aps.org), among others, and I’ve had the privilege of presenting my findings at various international conferences, e.g., well established [European Geosciences Union](https://www.egu.eu) (see also my Conferences & Projects tab) and [American Geophysical Union](https://www.agu.org). 
-Since Jan 2022 until Aug 2025, I’m also involved in a National Science Centre (Poland) project focused on *Turbulence and Magnetic Reconnection in Earth’s Space Environment*.
-
-In recent years, during my PhD course, my work has expanded into the world of space science, with a specific interest in *solar wind*, *turbulence*, *magnetic reconnection*, *space plasmas*, and *kinetic regime*. 
-Such interdisciplinary approach throughout the years allows me to adapt quickly to new research areas, and I’m always excited to take on new challenges. 
-My open-minded attitude toward research drives my ability to contribute better to collaborative research.
+My name is **Dariusz Andrzej Wójcik**, **PhD**, Research Fellow (Space Physicist) at the Space Research Centre of Polish Academy of Sciences (SRC PAS) in [Warsaw](https://www.poland.travel/en/warsaw/), Poland.
+My work spans intersection of applied mathematics, stochastic processes, and space plasma physics.
 
 ---
+ 
+## Background
 
-On this website, you’ll find a portfolio of my projects, articles exploring given topics, materials related to scientific conferences and given lectures, and hopefully in the near future my blog where I discuss the latest trends in statistics, AI, machine learning, and cyber security. 
-When I’m not immersed in mathematics and programming, I enjoy reading psychology books, playing strategy games, playing [snooker](https://www.wst.tv), and spending quality time with my family.
+My academic path began in pure mathematics and quantitative finance. I hold a B.Sc. in **Mathematics** (Finances) and two M.Sc. degrees in **Mathematics**, one in Economics and one in Insurance & Finance 
+My early research covered mathematical modeling in [Cybersecurity Insurance](https://dwojcik1.github.io/assets/pdf/MSc_PW.pdf) and Economics, and a [Stability Analysis of the Generalized Lorenz System](https://dwojcik1.github.io/assets/pdf/MSc_UKSW.pdf), all earned with Rector's Scholarships.
 
-I invite you to explore my work, and if you’re interested in collaborating or have any project in mind, please feel free to *reach out*, using one of the links (at the bottom of this page). 
-Let’s turn complex challenges into meaningful results. 
-Whether you’re a researcher, PhD Cancdidate, undergraduate student, or a company employee or a manager in need of innovative solutions, I’m always *open to connecting* and exploring new opportunities!
+I later completed my Ph.D. in **Space Physics** With Honors (**_Cum Laude_**) at the Space Research Centre, Polish Academy of Sciences, under supervision of [Prof. Wiesław M. Macek](http://users.cbk.waw.pl/~macek/), receiving a distinction for progress in doctoral work and publication achievements. 
+My thesis *Analysis of Markov Processes in Space Environment* developed and validated a stochastic-dynamical framework for turbulence at kinetic scales using high-resolution data from the NASA *Magnetospheric Multiscale* (*MMS*) mission.
+
+---
+ 
+## Research
+
+My work integrates advanced mathematical frameworks, such as Markov processes, Fokker-Planck and Langevin dynamics, fractal and multifractal analysis, with observational space data to investigate how energy is transferred and dissipated in magnetospheric and heliospheric plasmas, using [R](https://cran.r-project.org), [Python](https://www.python.org), and [MATLAB](https://www.mathworks.com/products/matlab.html) languages..
+
+Key directions in my current research include:
+
+- Testing universality of the Markovian turbulence cascade across the Earth's magnetosphere using *MMS* multi-region data;
+- Extending the Fokker-Planck / jump-diffusion framework to inner heliosphere measurements from NASA Parker Solar Probe, THEMIS, and ESA Cluster, BepiColombo missions; 
+- Characterizing intermittency and scale-invariance breakdown at day-side reconnection jets using Partial Variance of Increments (PVI) and multifractal spectra;
+- Investigating space plasma dynamics, turbulence, and magnetic reconnection in the Earth's magnetosphere, with a focus on kinetic-scale energy dissipation mechanisms using high-resolution *MMS* data;
+- Fractal and multifractal analysis of large-scale structure in the universe, including galaxy clustering in redshift catalogs;
+
+My research findings have been published in [The Astrophysical Journal](https://iopscience.iop.org/journal/0004-637X), [Journal of Geophysical Research](https://agupubs.onlinelibrary.wiley.com/journal/21562202), and [Physical Review](https://journals.aps.org), among others.
+I regularly present at international conferences including the [European Geosciences Union](https://www.egu.eu) and the [American Geophysical Union](https://www.agu.org) (see also my Conferences & Projects tab), and have given an invited talk at the Cluster-Plasma Observatory (2025) workshop in Paris. 
+Since September 2025 I have been a Research Fellow at SRC PAS, working on cosmic plasma analysis across the magnetosphere, heliosphere, and astrophysical environments. 
+I'm also a member of EGU, AGU, and JpGU, and serve as a peer reviewer for *Scientific Reports* (Springer Nature) and *Entropy / Atmosphere* (MDPI).
+
+---
+ 
+## *MMS* Turbulence Lab *(under development)*
+
+I'm building a web-based analysis tool that lets researchers explore the *MMS* mission data in the browser. 
+The app currently supports turbulence data slicing, visualization, and basic statistical analysis across magnetospheric regions, with more analysis options actively being added.
+
+**[→ Open MMS Turbulence Lab](https://mms-data-slicer.streamlit.app)**
+
+> **Note:** The app is hosted on Streamlit Community Cloud and may occasionally enter a sleep state. If the page is inactive,  click **Reactivate** (or *"Yes, get this app back up!"*) to wake it — it typically loads within a minute.
+ 
+---
+
+## Methods and tools
+ 
+`Fokker-Planck equation` · `Kramers-Moyal coefficients` · `Markov processes` · `Stochastic differential equations` · `Jump-diffusion models` · `Multifractal analysis` · `PVI & intermittency` · `Structure functions` · `Kappa distributions` · `R` · `Python` · `MATLAB` · `IDL / SPEDAS` · `Streamlit` · `MMS mission data` · `Parker Solar Probe` · `BepiColombo` · `Cluster / THEMIS`
+
+---
+ 
+## Beyond research
+
+On this website, you’ll find a portfolio of my projects, articles, conference materials, and lectures. 
+Hopefully in the near future I'll also add a blog discussing the latest trends in statistics, AI, machine learning, and cybersecurity.
+
+When I’m not immersed in science, I enjoy reading psychology books, playing strategy games, playing [snooker](https://www.wst.tv), and spending quality time with my family.
+
+I invite you to explore my work - and if you’re interested in collaborating or have a project in mind, feel free to reach out, using the links. 
+Whether you’re a researcher, PhD cancdidate, student, or industry professional in need of rigorous quantitative solutions, I’m always open to connecting and exploring new opportunities!
 
 ---
 
