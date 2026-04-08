@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-research-fellow-space-physicist-space-research-centre-polish-academy-of-sciences",
-    title: "Research Fellow (Space Physicist) · Space Research Centre, Polish Academy of Sciences",
+    id: "nav-about-me",
+    title: "About me",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
