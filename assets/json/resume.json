@@ -5,7 +5,7 @@
     "image": "",
     "email": ["dwojcik@cbk.waw.pl"],
     "url": "https://dwojcik1.github.io",
-    "summary": "Applied Mathematician and early-career Space Physicist with expertise in turbulence, stochastic processes, probability theory, and space data analysis. Experienced in working with the NASA's *Magnetospheric Multiscale** (*MMS*) mission satellite data, statistical modeling, numerical analysis, and interdisciplinary research bridging mathematics and space physics, as well as finances and insurances. Proficient in applying advanced mathematical frameworks such as *Markov processes*, *Fokker–Planck* and *Langevin* dynamics, and *fractal analysis* to investigate energy transfer mechanisms in space plasma turbulence across kinetic scales. Author and co-author of various peer-reviewed publications in leading physical and astrophysical journals.",
+    "summary": "Applied Mathematician and Space Physicist with expertise in turbulence, stochastic processes, probability theory, and space data analysis. Experienced in working with the NASA Magnetospheric Multiscale (MMS) mission satellite data, statistical modeling, numerical analysis, and interdisciplinary research bridging mathematics and space physics, as well as finances and insurances. Proficient in applying advanced mathematical frameworks such as Markov processes, Fokker–Planck dynamics, and multifractal analysis to investigate energy transfer mechanisms in space plasma turbulence across kinetic scales. Author of various peer-reviewed publications in leading physical and astrophysical journals.",
     "location": {
       "address": "Bartycka 18a",
       "postalCode": "00-716",
@@ -30,7 +30,7 @@
       "startDate": "2025-09-01",
       "endDate": "present",
       "summary": "Space Physicist",
-      "highlights": []
+      "highlights": ["Analysis of cosmic plasma in the magnetosphere, heliosphere, and astrophysical applications"]
     }
   ],
   "education": [
@@ -43,7 +43,7 @@
       "startDate": "2022-03-01",
       "endDate": "2025-09-01",
       "score": "Cum Laude",
-      "courses": ["Ph.D. Thesis: \"Analysis of Markov Processes in Space Environment\".", "Highlights: Distinction for progress in the doctoral work and for publication achievements."]
+      "courses": ["Thesis: \"Analysis of Markov Processes in Space Environment\".", "Highlights: Distinction for progress in the doctoral work and for publication achievements."]
     },
     {
       "institution": "Warsaw University of Technology",
@@ -54,7 +54,7 @@
       "startDate": "2019-10-02",
       "endDate": "2021-12-01",
       "score": "4",
-      "courses": ["M.Sc. Thesis: \"Insurance Modeling in the Cyber Security Area\".", "Highlights: Rector's scholarship.", "Additional Courses: Time Series Analysis; Regression Analysis; Data Mining; Machine Learning."]
+      "courses": ["Thesis: \"Insurance Modeling in the Cyber Security Area\".", "Highlights: Rector's scholarship.", "Additional Courses: Time Series Analysis; Regression Analysis; Data Mining; Machine Learning."]
     },
     {
       "institution": "Cardinal Stefan Wyszyński University",
@@ -65,7 +65,7 @@
       "startDate": "2019-10-01",
       "endDate": "2020-12-01",
       "score": "5",
-      "courses": ["M.Sc. Thesis: \"Stability Analysis of the Generalized Lorenz System\".", "Additional Courses: Dynamical Systems; Deterministic Chaos Theory."]
+      "courses": ["Thesis: \"Stability Analysis of the Generalized Lorenz System\".", "Additional Courses: Dynamical Systems; Deterministic Chaos Theory."]
     },
     {
       "institution": "Cardinal Stefan Wyszyński University",
@@ -76,7 +76,7 @@
       "startDate": "2016-10-01",
       "endDate": "2019-07-01",
       "score": "5",
-      "courses": ["B.Sc. Thesis: \"Mathematical Modeling of the Heartbeat\".", "Highlights: Rector's scholarship"]
+      "courses": ["Thesis: \"Mathematical Modeling of the Heartbeat\".", "Highlights: Rector's scholarship"]
     }
   ],
   "certificates": [
@@ -90,11 +90,18 @@
   ],
   "publications": [
     {
+      "name": "Multifractal Spectrum Observed in the Universe Distribution of Galaxies",
+      "publisher": "Chaos",
+      "releaseDate": "2026-02-18",
+      "url": "https://doi.org/10.1063/5.0289242",
+      "summary": "Fractals, General relativity, Hubble's law, Distribution of galaxies, Probability theory"
+    },
+    {
       "name": "Fractal Nature of Galaxy Clustering in the Updated CfA Redshift Catalog",
-      "publisher": "Scientific Reports: Galaxies",
-      "releaseDate": "2025-12",
-      "url": "https://doi.org/10.13140/RG.2.2.15119.91045",
-      "summary": "Multifractals, Universe, Galaxies, Clustering, Mass Distribution, Scaling"
+      "publisher": "Scientific Reports",
+      "releaseDate": "2026-01-25",
+      "url": "https://doi.org/10.1038/s41598-026-36013-3",
+      "summary": "Scaling, Multifractals, Universe, Galaxies, Clustering, Mass distribution"
     },
     {
       "name": "Searching for Universality of Turbulence in the Earth's Magnetosphere",
@@ -132,10 +139,10 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Statistics",
-        "Probability",
+        "Probability Theory",
+        "Data Analysis",
         "Differential Equations",
-        "Dynamical Systems",
-        "Data Analysis"
+        "Dynamical Systems"
       ]
     },
     {
@@ -157,12 +164,12 @@
       "keywords": [
         "MATLAB",
         "TeX",
-        "Git",
+        "Streamlit",
         "SPEDAS",
         "PlasmaPy",
         "AstroPy",
         "SpacePy",
-        "CDFlib"
+        "Git"
       ]
     },
     {
