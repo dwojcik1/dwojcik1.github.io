@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About me
+title: Research Fellow (Space Physicist) · Space Research Centre, Polish Academy of Sciences
 permalink: /
 subtitle: <a href='#'>About me</a>.
 
