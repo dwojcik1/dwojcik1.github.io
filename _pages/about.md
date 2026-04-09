@@ -59,9 +59,9 @@ I'm also a member of EGU, AGU, and JpGU, and serve as a peer reviewer for *Scien
 I'm building a web-based analysis tool that lets researchers explore the *MMS* mission data in the browser. 
 The app currently supports turbulence data slicing, visualization, and basic statistical analysis across magnetospheric regions, with more analysis options actively being added.
 
-**[→ Open *MMS* Turbulence Lab](https://mms-data-slicer.streamlit.app)**
+**[→ Open MMS Turbulence Lab](https://mms-data-slicer.streamlit.app)**
 
-> **Note:** The app is hosted on Streamlit Community Cloud and may enter a sleep state. If the page is inactive, click **Reactivate** (or *"Yes, get this app back up!"*) to wake it — it will load within a minute.
+> **Note:** The app is hosted on Streamlit Community Cloud and may enter a sleep state. If the page is inactive, click *"Yes, get this app back up!"* to wake it — it will load within a minute.
  
 ---
 
